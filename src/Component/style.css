@@ -1,0 +1,7 @@
+.box1{
+    
+        box-sizing: border-box;
+        padding: 0 15vw;
+        margin-top: 3vw;
+        border: 2px,solid,black;
+      }
